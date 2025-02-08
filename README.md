@@ -1,4 +1,4 @@
-#### Download and convert youtuve videos to mp3 using ffmpeg. 
+#### Download and convert youtube videos to mp3 using ffmpeg. 
 
 ##### Single conversion
 `python main.py https://www.youtube.com/watch?v=dQw4w9WgXcQ`
