@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 *.mp3
+*.webm
 
 # C extensions
 *.so
@@ -170,4 +171,8 @@ cython_debug/
 #.idea/
 
 # PyPI configuration file
+<<<<<<< HEAD
 .pypirc
+=======
+.pypirc
+>>>>>>> efd7550 (First commit)
